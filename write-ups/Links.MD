@@ -17,3 +17,9 @@ HTTP Request smuggling
 ==
 
 https://github.com/CHYbeta/OddProxyDemo/tree/master/mod_proxy/demo1
+
+
+SNI
+==
+
+https://www.claudiokuenzler.com/blog/693/curious-case-of-curl-ssl-tls-sni-http-host-header
